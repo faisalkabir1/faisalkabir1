@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @faisalkabir1
 - 👀 I’m interested in ... Web Design and Development, Software Quality Testing, Automation Engineering.
 - 🌱 I’m currently learning ... Manual Tasting and Automation.
-- 💞️ I’m looking to collaborate on ... Developing
-- 📫 How to reach me ... Onlyfaisalkabir@gmail.com
+- 💞️ I’m looking for ... New Opertunaties.
+- 📫 How to reach me ... onlyfaisalkabir@gmail.com
 
 <!---
 faisalkabir1/faisalkabir1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
