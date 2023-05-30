@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faisalkabir1
 - 👀 I’m interested in ... Web Design and Development, Software Quality Testing, Automation Engineering.
 - 🌱 I’m currently learning ... Manual Tasting and Automation.
-- 💞️ I’m looking for ... New Opertunaties.
+- 💞️ I’m looking for ... New Opportunities.
 - 📫 How to reach me ... onlyfaisalkabir@gmail.com
 
 <!---
