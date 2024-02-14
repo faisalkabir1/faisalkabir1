@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @faisalkabir1
-- 👀 I’m interested in ... Web Design and Development, Software Quality Testing, Automation Engineering.
-- 🌱 I’m currently learning ... Manual Tasting and Automation.
+- 👨🏻‍💻 I'm a Software QA engineer at ... Siara Solutions Pty Ltd.
+- 👀 I’m interested in ... Software Development, Software Quality Testing, Automation Engineering, AI & Gaming.
+- 🌱 I’m currently learning ... Automation Testing.
 - 💞️ I’m looking for ... New Opportunities.
 - 📫 How to reach me ... onlyfaisalkabir@gmail.com
 
-<!---
-faisalkabir1/faisalkabir1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
