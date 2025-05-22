@@ -36,8 +36,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Contribution Snake
-![GitHub Snake dark](https://raw.githubusercontent.com/faisalkabir1/faisalkabir1/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
+![GitHub Snake dark](https://github.com/faisalkabir1/faisalkabir1/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
