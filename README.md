@@ -1,5 +1,18 @@
+<h1 align="center">
+  Hi there, I'm Faisal Kabir
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+QA+Engineer;Automation+%7C+Manual+%7C+API+Testing;Postman+%7C+Selenium+%7C+Playwright+%7C+RestAssured;Currently+Exploring+Mobile+App+Automation+%F0%9F%93%B1;Web+App+Security+%7C+Vulnerability+Analysis+%F0%9F%94%92;Passionate+about+Bug+Hunting+%26+Quality;Open+Source+Contributor+%F0%9F%93%9D" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jubayed004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
 # 💫 About Me:
-👋 Hi, I’m @faisalkabir1<br>👨🏻‍💻 I'm a Software QA engineer at ... Siara Solutions Pty Ltd.<br>👀 I’m interested in ... Software Development, Software Quality Testing, Automation Engineering, AI & Gaming.<br>🌱 I’m currently learning ... Automation Testing.<br>💞️ I’m looking for ... New Opportunities.<br>📫 How to reach me ... onlyfaisalkabir@gmail.com
+👨🏻‍💻 I'm a Software QA engineer at ... Siara Solutions Pty Ltd.<br>👀 I’m interested in ... Software Development, Software Quality Testing, Automation Engineering, AI & Gaming.<br>🌱 I’m currently learning ... Automation Testing.<br>💞️ I’m looking for ... New Opportunities.<br>📫 How to reach me ... onlyfaisalkabir@gmail.com
 
 
 ## 🌐 Socials:
@@ -38,6 +51,7 @@
 ## 🐍 Contribution Snake
 ![GitHub Snake dark](https://github.com/faisalkabir1/faisalkabir1/blob/output/github-contribution-grid-snake-dark.svg)
 
+![Visitor Count](https://count.getloli.com/get/@faisalkabir1?theme=rule32)
 
 
 
