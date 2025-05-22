@@ -36,6 +36,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/faisalkabir1/faisalkabir1/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake dark](https://github.com/faisalkabir1/faisalkabir1/blob/output/github-contribution-grid-snake-dark.svg)
+
 
