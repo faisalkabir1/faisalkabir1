@@ -39,4 +39,3 @@
 
 ![Snake animation](https://github.com/faisalkabir1/faisalkabir1/blob/output/github-contribution-grid-snake-dark.svg)
 
-
