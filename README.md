@@ -35,10 +35,10 @@
 [![](https://visitcount.itsvg.in/api?id=faisalkabir1&icon=10&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐍 Contribution Graph
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
+![GitHub Snake dark](https://raw.githubusercontent.com/faisalkabir1/faisalkabir1/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
-![GitHub Snake dark](https://raw.githubusercontent.com/faisalkabir1/faisalkabir1/output/dist/github-contribution-grid-snake-dark.svg)
+
 
 
 
