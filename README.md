@@ -44,10 +44,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faisalkabir1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=faisalkabir1&icon=10&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Contribution Snake
 ![GitHub Snake dark](https://github.com/faisalkabir1/faisalkabir1/blob/output/github-contribution-grid-snake-dark.svg)
 
