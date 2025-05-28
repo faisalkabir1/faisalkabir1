@@ -36,7 +36,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=faisalkabir1&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=faisalkabir1&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkabir1&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkabir1&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=Wine-Quality-Prediction-ML-Project)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
