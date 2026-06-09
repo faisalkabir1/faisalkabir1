@@ -12,7 +12,7 @@
 
 ---
 # 💫 About Me:
-👨🏻‍💻 I'm a Software QA engineer at ... Siara Solutions Pty Ltd.<br>👀 I’m interested in ... Software Development, Software Quality Testing, Automation Engineering, AI & Gaming.<br>🌱 I’m currently learning ... Automation Testing.<br>💞️ I’m looking for ... New Opportunities.<br>📫 How to reach me ... onlyfaisalkabir@gmail.com
+👨🏻‍💻 I'm a Software QA engineer at ... [Garibook](https://garibook.com).<br>👀 I’m interested in ... Software Development, Software Quality Testing, Automation Engineering, AI, ML & Gaming.<br>🌱 I’m currently learning ... Mobile App Automation.<br>💞️ I’m looking for ... New Opportunities.<br>📫 How to reach me ... onlyfaisalkabir@gmail.com
 
 
 ## 🌐 Socials:
